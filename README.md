@@ -10,4 +10,4 @@
 
 Go check if the path of python in Environment variables is there, if it's not, go and add it, if you don't know how, then uninstall python and install it again but don't forget to Select the Add path check box ...
 
-That allow you to start the script by clicking on startUp.bat file below this file
+That allow you to start the script by clicking on startApp.bat file below this file
