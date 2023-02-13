@@ -1,0 +1,2 @@
+cd Deal_With_Image
+python remove_img_back.py
